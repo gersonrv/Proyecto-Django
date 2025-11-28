@@ -113,3 +113,9 @@ Abre tu navegador y navega a: http://127.0.0.1:8000
 
 
 
+## Autor
+## Nombre: Gerson Enrique Rivera Ramos
+
+## Proyecto: Tarea Final - Desarrollo Web con Django
+
+## Propósito: Desarrollar una aplicación web con Django que integre vistas, rutas y templates con estilos usando Tailwind CSS, demostrando el manejo básico del desarrollo web en Python.
